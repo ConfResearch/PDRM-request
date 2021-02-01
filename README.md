@@ -1,2 +1,4 @@
 # PDRM-request
-The Codes and Dataset Attached To A Paper
+
+To facilitate future research, we will release the codes and dataset attached to the paper 'A Reinforcement Learning Approach for Personalized Diversity in Feeds Recommendation'.
+
